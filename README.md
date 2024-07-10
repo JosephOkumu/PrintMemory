@@ -9,8 +9,7 @@ This part contains instructions on how to make use of the program.
 
 ## Features
 
-- Rotates a string one word to the left.
-- Removes multiple spaces from a string.
+- Prints memory
 
 ### Usage
 
